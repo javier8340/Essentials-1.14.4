@@ -1,0 +1,17 @@
+
+version: 1.0 - Alpha
+name: Essentials
+main: com.javiergg.Essentials.Principal
+author: javiergg
+desription: Comandos esenciales para Minecraft
+api-version: 1.14
+commands:
+  tpa:
+    description: Tp hacia un jugador
+  tpaccept:
+    description: confirma tp
+  recarga:
+    description: recarga el plugin
+
+
+
